@@ -1,0 +1,5 @@
+.balle {
+    position: fixed;
+    background-color: black;
+    border-radius: 50%;
+}
